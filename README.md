@@ -1,5 +1,5 @@
 # Objective
-Classify Donald Trump, Jeremy Corbyn and Theresa May Tweets using Naïve-Bayes.
+Classify Donald Trump, Jeremy Corbyn and Theresa May Tweets using Naïve-Bayes. Further discussion and information available from:https://www.datadistilled.co.uk/posts/classifying-politicians-tweets-using-naive-baye.
 
 # Findings:
 Using a very basic Naïve-Bayes word count model leads to a 60% accuracy in classifying tweets in test set. 
